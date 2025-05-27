@@ -19,8 +19,8 @@ ___
 - Noted servers, user PCs, and laptops lumped together.
 ![Screenshot 2025-05-26 174245](https://github.com/user-attachments/assets/550493bc-cd0d-4772-a31d-3c39f988f25e)
 
-### Step 2: Create New OUs
-- Created two new Organizational Units under the thm.local domain root:
+### Step 2: Create Two New OUs Under the THM container 
+
 ![Screenshot 2025-05-26 175505](https://github.com/user-attachments/assets/9fae1c63-b794-4d06-ae69-5f8bf22aefb4)
 
  - Created a new OU named ‘Workstations':
