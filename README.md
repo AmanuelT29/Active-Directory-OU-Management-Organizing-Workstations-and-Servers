@@ -44,7 +44,7 @@ ___
 ![Screenshot 2025-05-26 183143](https://github.com/user-attachments/assets/3a9e9d23-d180-4ffd-8504-e072fcda9e49)
 
 - Verify that all machines are now placed in their appropriate OUs.
-- ![Screenshot 2025-05-26 183742](https://github.com/user-attachments/assets/39743646-8f44-4856-96b7-8022522e321c)![Screenshot 2025-05-26 183806](https://github.com/user-attachments/assets/35909d2d-859a-4839-949e-d218e831c3f5)
+ ![Screenshot 2025-05-26 183742](https://github.com/user-attachments/assets/39743646-8f44-4856-96b7-8022522e321c)![Screenshot 2025-05-26 183806](https://github.com/user-attachments/assets/35909d2d-859a-4839-949e-d218e831c3f5)
 ___
 
 ## Result 
