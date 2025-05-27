@@ -9,7 +9,7 @@
 - Microsoft Active Directory
 
 ## Objective 
-This project aims to demonstrates how to properly organize computer accounts in an Active Directory (AD) environment by creating and managing **Organizational Units (OUs)**. The goal is to separate machines by role—**Workstations and Servers **—to enable better policy application, security, and management.
+This project aims to demonstrates how to properly organize computer accounts in an Active Directory (AD) environment by creating and managing **Organizational Units (OUs)**. The goal is to separate machines by role—**Workstations and Servers**—to enable better policy application, security, and management.
 ___
 
  ## Steps Performed
