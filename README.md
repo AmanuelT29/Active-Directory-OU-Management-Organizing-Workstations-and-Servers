@@ -23,11 +23,11 @@ ___
 
 ![Screenshot 2025-05-26 175505](https://github.com/user-attachments/assets/9fae1c63-b794-4d06-ae69-5f8bf22aefb4)
 
- - Created a new OU named ‘Workstations':
+ - Created a new OU named ‘Workstations'
     
 ![Screenshot 2025-05-26 180023](https://github.com/user-attachments/assets/319b3917-ab01-4091-83a9-3a3f3947ed49)
 
-- Created a new OU named 'Servers':
+- Created a new OU named 'Servers'
   
 ![Screenshot 2025-05-26 180201](https://github.com/user-attachments/assets/df0c72ef-17f9-4f08-a22d-62dc2d9270f1)
 
